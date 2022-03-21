@@ -1,0 +1,19 @@
+-------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 0
+Nama Barang   : sepatu
+Jumlah Barang : 2
+Harga Barang  : 100000
+-------------------------------
+Total Bayar   : 200000
+--------------------------------------------------------------
+Data Belanjaan
+-------------------------------
+Id Barang     : 1
+Nama Barang   : sandal
+Jumlah Barang : 6
+Harga Barang  : 50000
+-------------------------------
+Total Bayar   : 300000
+-------------------------------
